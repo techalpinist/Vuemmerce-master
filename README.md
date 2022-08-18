@@ -8,10 +8,9 @@
   Ecommerce template built with VueJs and NuxtJs
 </h1>
 <p align="center">
-<a href="https://github.com/ivanlori/Vuemmerce/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ivanlori/Vuemmerce"></a>
-<a href="https://github.com/ivanlori/Vuemmerce/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ivanlori/Vuemmerce"></a>
-<a href="https://github.com/ivanlori/Vuemmerce/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ivanlori/Vuemmerce"></a>
-<a href="https://github.com/ivanlori/Vuemmerce/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ivanlori/Vuemmerce"></a>
+<a href="https://github.com/Alpinist-Denis/Vuemmerce/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Alpinist-Denis/Vuemmerce"></a>
+<a href="https://github.com/Alpinist-Denis/Vuemmerce/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Alpinist-Denis/Vuemmerce"></a>
+<a href="https://github.com/Alpinist-Denis/Vuemmerce/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Alpinist-Denis/Vuemmerce"></a>
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@
 ```
 
 # clone repository
-git clone https://github.com/ivanlori/Vuemmerce.git
+git clone https://github.com/Alpinist-Denis/Vuemmerce.git
 
 # install dependencies
 yarn install
@@ -37,11 +36,11 @@ yarn build
 
 ## 🐛 Bugs
 
-Have you found a bug? Feel free to open an <a href="https://github.com/ivanlori/Vuemmerce/issues/new?assignees=&labels=&template=bug_report.md&title=">issue here</a>.
+Have you found a bug? Feel free to open an <a href="https://github.com/Alpinist-Denis/Vuemmerce/issues/new?assignees=&labels=&template=bug_report.md&title=">issue here</a>.
 
 ## 🙋 Discussions
 
-Do you have questions, ideas or any request related to Vuemmerce? Start a <a href="https://github.com/ivanlori/Vuemmerce/discussions">discussion here</a>.
+Do you have questions, ideas or any request related to Vuemmerce? Start a <a href="https://github.com/Alpinist-Denis/Vuemmerce/discussions">discussion here</a>.
 
 ## 📌 Changelog
 
@@ -51,7 +50,3 @@ See the release notes into [changelog.md](changelog.md)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## 📣 Sveltemmerce is here
-
-Searching an ecommerce template built with SvelteJs?
-Check [Sveltemmerce](https://github.com/ivanlori/Sveltemmerce) out!
